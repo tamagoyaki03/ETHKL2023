@@ -57,10 +57,11 @@ Conducting user experience tests and gathering feedback iteratively helped in re
 
 
 e. Technologies we used: 
-Ethereum blockchain, Solidity, Web3.js, Vue.js, Node.js, Truffle, Metamask. 
+Ethereum blockchain, Solidity, Web3.js, Vue.js, Node.js, Truffle, Metamask, Git
 
 f. Links: 
-[GitHub Repository]https://github.com/tamagoyaki03/ETHKL2023/tree/main [Official Website]
+[GitHub Repository]https://github.com/tamagoyaki03/ETHKL2023/tree/main 
+[Official Website]
 
 g. Video Demo: 
 
